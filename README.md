@@ -1,0 +1,1 @@
+# karabiner-caps-lock-to-change-input-method
